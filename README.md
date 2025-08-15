@@ -28,8 +28,8 @@ You can run these notebooks in [Google Colab](https://colab.research.google.com)
 Please cite our paper if you use this code:
 
 > *Analysing Social Network Structures and Thematic Engagement on X Audio Spaces*  
-> Accepted at [Conference Name], 2025
+> Accepted at Social Network Analysis and Mining, 2025
 
 ## 📄 License
 
-This code is shared under the MIT License.
+
