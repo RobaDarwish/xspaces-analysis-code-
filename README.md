@@ -12,7 +12,7 @@ This repository contains the Colab notebooks and Python scripts used in the pape
 - `network_analysis.ipynb`: Computes graph statistics, clustering, small-world metrics
 - `topic_similarity.ipynb`: Analyses topic similarity using TweetNLP
 - `sankey_visualisation.ipynb`: Generates Sankey diagrams for topic flow
-- `requirements.txt`: Python dependencies (optional)
+
 
 ## ⚠️ Data Access
 
